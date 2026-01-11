@@ -87,10 +87,10 @@ Este projeto possui uma interface completa desenvolvida em Next.js/React, que se
 
 Você pode encontrar o repositório do Frontend aqui: 👉 https://github.com/Rafaelzzzx/TrabalhoFront
 
-📨 Contato
+## 📨 Contato
 
-GitHub: Rafael_mariani
-E-mail: Rafaelantunesmariani@gmail.com
-Linkedin: www.linkedin.com/in/rafael-antunes-java
+* **GitHub:** [Rafaelzzzx](https://github.com/Rafaelzzzx)
+* **E-mail:** [Rafaelantunesmariani@gmail.com](mailto:Rafaelantunesmariani@gmail.com)
+* **LinkedIn:** [rafael-antunes-java](https://linkedin.com/in/rafael-antunes-java)
 
 Desenvolvido como projeto acadêmico - UNESC 2024/2025.
