@@ -85,6 +85,6 @@ Bash
 
 Este projeto possui uma interface completa desenvolvida em Next.js/React, que se comunica com esta API para oferecer uma experiência de usuário fluida e responsiva.
 
-Você pode encontrar o repositório do Frontend aqui: 👉 Trabalho Interdisciplinar - Frontend
+Você pode encontrar o repositório do Frontend aqui: 👉 https://github.com/Rafaelzzzx/TrabalhoFront
 
 Desenvolvido como projeto acadêmico - UNESC 2024/2025.
